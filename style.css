@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height : 500px;
+    width : 300px;
+    background-color: hsl(60, 2%, 22%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box img {
+    border-radius:100%;
+}
+h2{
+    text-decoration-color: azure;
+}
+h6{
+    text-color: hsl(75, 94%, 57%);
+}
+p{
+    text-decoration-color: grey;
+}
